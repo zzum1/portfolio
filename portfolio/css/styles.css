@@ -1,0 +1,27 @@
+* {
+    font-family: 'Glory', sans-serif;
+}
+
+nav ul:nth-child(1) {
+    font-size: 1.5em;
+}
+
+#header-content {
+    font-size: 1.5em;
+}
+
+.about-me {
+    font-size: 1.5em;
+}
+
+.projects-content {
+    font-size: 1.5em;
+}
+
+.footer-content {
+    font-size: 1.5em;
+}
+
+.footer-content p > a:hover {
+    color: chocolate;
+}
